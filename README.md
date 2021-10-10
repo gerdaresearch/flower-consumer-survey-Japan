@@ -1,4 +1,4 @@
-# Flower-consumer-survey-Japan  
+# flower-consumer-survey-Japan  
   
 ## 2020 survey  
 Japan flower consumption during the COVID-19 pandemic, consumers survey 2020
