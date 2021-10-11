@@ -18,7 +18,7 @@ flower experiences during the COVID-19 pandemic, qualitative analysis (text data
 Flower Consumer Survey, Japan.  
 Tuesday, Octover 13 - Wednesday, October 14, 2020.  
 Macromill Monitor, internet survey. 520 male and female respondents in their 20s to 50s.  
-The Council for the Longevity of Domestic Flowers.  Funded by the Ministry of Agriculture, Forestry and Fisheries.  
+The Council for the Vase-life Improvement of Japanese Flowers. Funded by the Ministry of Agriculture, Forestry and Fisheries.  
 citation: (Aoki, Kyoko (2021). Flower consumer survey report FY2020. Council for the Improvement of the Vase-life of Japanese Flowers.    
 this repository includes questionnaire, GT, datasets(texts, flower experiences during the COVID-19 pandemic), report   
 language  Japanese  
